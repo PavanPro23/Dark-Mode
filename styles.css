@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.head{
+    text-align: center;
+}
+i{
+    font-size: 80px;
+    cursor: pointer;
+    position: relative;
+    left: 47%;
+    top: 50%;
+
+}
